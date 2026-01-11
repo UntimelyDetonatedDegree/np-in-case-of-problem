@@ -1,1 +1,3 @@
 # np-in-case-of-problem
+
+If you are reading this, that means you are in the place you shouldn't be. Like, seriously, there is nothing interesting...
